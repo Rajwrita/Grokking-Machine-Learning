@@ -4,3 +4,4 @@ Notes for help:
 2. [Linear Regression using Normal Equations](https://medium.com/@rajwritanath/linear-regression-using-normal-equations-3c972cb77c74)
 3. [Bayesian Linear Regression](https://medium.com/@rajwritanath/bayesian-linear-regression-40f167b73e7a)
 4. [Logistic Regression](https://medium.com/@rajwritanath/logistic-regression-the-the-e8ed646e6a29)
+5. [Text Generation Model steps](https://medium.com/@rajwrita/using-text-generation-to-get-the-lyrics-for-the-next-arctic-monkey-song-f7c93a882c6f?source=---------4------------------)
